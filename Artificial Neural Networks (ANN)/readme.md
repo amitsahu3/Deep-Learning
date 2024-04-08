@@ -2,7 +2,9 @@
 * Neural Networks : are designed to mimic human brains 
 * Neurons : smallest unit of NN that are responsible for input, processing, output
 
-## Problem : Given the bank customers dataset , a high churn rate is observed(customers leaving), look into the dataset to assess and analyse it
+## Problem : 
+Given the bank customers dataset , a high churn rate is observed(customers leaving), look into the dataset to assess and analyse it.
+Construct a geodemographic segmentation model to tell the bank which customers are at the highest risk of leaving
 
   ## Neural Networks
   * Neural networks are made of input neuron, hidden layers and output neurons
