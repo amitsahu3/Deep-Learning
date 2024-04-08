@@ -4,7 +4,9 @@
 
 ## Problem : 
 Given the bank customers dataset , a high churn rate is observed(customers leaving), look into the dataset to assess and analyse it.
-Construct a geodemographic segmentation model to tell the bank which customers are at the highest risk of leaving
+Construct a **_geodemographic segmentation_** model to tell the bank which customers are at the highest risk of leaving
+
+**Geodemographic segmentation :** Geographic segmentation is a marketing strategy used to target products or services at people who live in, or shop at, a particular location. It works on the principle that people in that location have similar needs, wants, and cultural considerations.
 
   ## Neural Networks
   * Neural networks are made of input neuron, hidden layers and output neurons
