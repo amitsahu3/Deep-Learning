@@ -1,6 +1,7 @@
 # Convolution Neural Networks (CNN)
 Convolutional Neural Network (CNN) is the extended version of artificial neural networks (ANN) which is predominantly used to extract the feature from the grid-like matrix dataset. For example visual datasets like images or videos where data patterns play an extensive role.
-
+# Problem
+**Classify an image as cat or dog using CNN**
 ## CNN architecture
 Convolutional Neural Network consists of multiple layers like the input layer, Convolutional layer, Pooling layer, and fully connected layers.
 
