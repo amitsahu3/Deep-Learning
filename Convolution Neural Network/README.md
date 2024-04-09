@@ -1,7 +1,8 @@
 # Convolution Neural Networks (CNN)
-* Neural Networks : are designed to mimic human brains 
-* Neurons : smallest unit of NN that are responsible for input, processing, output
+Convolutional Neural Network (CNN) is the extended version of artificial neural networks (ANN) which is predominantly used to extract the feature from the grid-like matrix dataset. For example visual datasets like images or videos where data patterns play an extensive role.
 
+## CNN architecture
+Convolutional Neural Network consists of multiple layers like the input layer, Convolutional layer, Pooling layer, and fully connected layers. 
 ## Problem : 
 Given the bank customers dataset , a high churn rate is observed(customers leaving), look into the dataset to assess and analyse it.
 Construct a **_geodemographic segmentation_** model to tell the bank which customers are at the highest risk of leaving
@@ -18,5 +19,7 @@ Construct a **_geodemographic segmentation_** model to tell the bank which custo
   * one round through the whole dataset is called one **_epoch_**
 
   [Read more](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
+
+  <img alt="max" height="273" src="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png" srcset="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png 723w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-100.png 100w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-200.png 200w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-300.png 300w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-660.png 660w" width="723">
   
 
