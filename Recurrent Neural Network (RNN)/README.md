@@ -12,12 +12,12 @@ Recurrent Neural Network(RNN) is a type of Neural Network where the output from 
 
 <img alt="RNN-vs-FNN" height="330" src="https://media.geeksforgeeks.org/wp-content/uploads/20231204130132/RNN-vs-FNN-660.png" width="660">
 
-**Types Of RNN**
+### **Types Of RNN**
 There are four types of RNNs based on the number of inputs and outputs in the network.
-* 1. One to One :
-  2. One to Many : describe one image in multiple words
-  3. Many to one : categorize many words(sentences) as positive or negative ; i.e sentiment analysis
-  4. Many to many : Translate one language into another
+1. One to One :
+2. One to Many : describe one image in multiple words
+3. Many to one : categorize many words(sentences) as positive or negative ; i.e sentiment analysis
+4. Many to many : Translate one language into another
 
 
 
