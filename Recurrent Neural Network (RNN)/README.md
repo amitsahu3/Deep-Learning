@@ -10,7 +10,7 @@ Recurrent Neural Network(RNN) is a type of Neural Network where the output from 
 ## CNN architecture
 Convolutional Neural Network consists of multiple layers like the input layer, Convolutional layer, Pooling layer, and fully connected layers.
 
-<img alt="max" height="273" src=["https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png" srcset="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png 723w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-100.png 100w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-200.png 200w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-300.png 300w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-660.png 660w" width="723"](https://media.geeksforgeeks.org/wp-content/uploads/20231204125839/What-is-Recurrent-Neural-Network-660.webp)>
+<img alt="What-is-Recurrent-Neural-Network" height="330" src="https://media.geeksforgeeks.org/wp-content/uploads/20231204125839/What-is-Recurrent-Neural-Network-660.webp" width="660">
 
 The Convolutional layer applies filters to the input image to extract features, the Pooling layer downsamples the image to reduce computation, and the fully connected layer makes the final prediction. The network learns the optimal filters through backpropagation and gradient descent
 
