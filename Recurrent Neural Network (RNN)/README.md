@@ -1,4 +1,4 @@
-# Reccurent Neural Networks (CNN)
+# Reccurent Neural Networks (RNN)
 Recurrent Neural Network(RNN) is a type of Neural Network where the output from the previous step is fed as input to the current step.
 *  In traditional neural networks, all the inputs and outputs are independent of each other.
 *  Still, in cases when it is required to predict the next word of a sentence, the previous words are required and hence there is a need to remember the previous words.
