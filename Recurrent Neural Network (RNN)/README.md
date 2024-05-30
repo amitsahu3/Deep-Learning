@@ -9,6 +9,9 @@ Recurrent Neural Network(RNN) is a type of Neural Network where the output from 
 # RNNs vs Traditional ANNs
 * **Artificial neural networks** that do not have looping nodes are called feed forward neural networks. Because all information is only passed forward, this kind of neural network is also referred to as a multi-layer neural network.Information moves from the input layer to the output layer – if any hidden layers are present – unidirectionally in a feedforward neural network.
 * The fundamental processing unit in a **Recurrent Neural Network (RNN)** is a Recurrent Unit, which is not explicitly called a “Recurrent Neuron.” This unit has the unique ability to maintain a hidden state, allowing the network to capture sequential dependencies by remembering previous inputs while processing. Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) versions improve the RNN’s ability to handle long-term dependencies.
+
+<img alt="RNN-vs-FNN" height="330" src="https://media.geeksforgeeks.org/wp-content/uploads/20231204130132/RNN-vs-FNN-660.png" width="660">
+
 **Classify an image as cat or dog using CNN**
 ## CNN architecture
 Convolutional Neural Network consists of multiple layers like the input layer, Convolutional layer, Pooling layer, and fully connected layers.
