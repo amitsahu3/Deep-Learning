@@ -3,6 +3,8 @@ Recurrent Neural Network(RNN) is a type of Neural Network where the output from 
 *  In traditional neural networks, all the inputs and outputs are independent of each other.
 *  Still, in cases when it is required to predict the next word of a sentence, the previous words are required and hence there is a need to remember the previous words.
 *  The main and most important feature of RNN is its Hidden state, which remembers some information about a sequence.
+
+<img alt="What-is-Recurrent-Neural-Network" height="330" src="https://media.geeksforgeeks.org/wp-content/uploads/20231204125839/What-is-Recurrent-Neural-Network-660.webp" width="660">
 # RNNs vs Traditional ANNs
 * **Artificial neural networks** that do not have looping nodes are called feed forward neural networks. Because all information is only passed forward, this kind of neural network is also referred to as a multi-layer neural network.Information moves from the input layer to the output layer – if any hidden layers are present – unidirectionally in a feedforward neural network.
 * The fundamental processing unit in a **Recurrent Neural Network (RNN)** is a Recurrent Unit, which is not explicitly called a “Recurrent Neuron.” This unit has the unique ability to maintain a hidden state, allowing the network to capture sequential dependencies by remembering previous inputs while processing. Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) versions improve the RNN’s ability to handle long-term dependencies.
@@ -10,7 +12,7 @@ Recurrent Neural Network(RNN) is a type of Neural Network where the output from 
 ## CNN architecture
 Convolutional Neural Network consists of multiple layers like the input layer, Convolutional layer, Pooling layer, and fully connected layers.
 
-<img alt="What-is-Recurrent-Neural-Network" height="330" src="https://media.geeksforgeeks.org/wp-content/uploads/20231204125839/What-is-Recurrent-Neural-Network-660.webp" width="660">
+
 
 The Convolutional layer applies filters to the input image to extract features, the Pooling layer downsamples the image to reduce computation, and the fully connected layer makes the final prediction. The network learns the optimal filters through backpropagation and gradient descent
 
