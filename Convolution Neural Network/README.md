@@ -7,10 +7,7 @@ Convolutional Neural Network consists of multiple layers like the input layer, C
 
 <img alt="max" height="273" src="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png" srcset="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png 723w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-100.png 100w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-200.png 200w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-300.png 300w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-660.png 660w" width="723">
 
-The Convolutional layer applies filters to the input image to extract features, the Pooling layer downsamples the image to reduce computation, and the fully connected layer makes the final prediction. The network learns the optimal filters through backpropagation and gradient descent.
-## Problem : 
-Given the bank customers dataset , a high churn rate is observed(customers leaving), look into the dataset to assess and analyse it.
-Construct a **_geodemographic segmentation_** model to tell the bank which customers are at the highest risk of leaving
+The Convolutional layer applies filters to the input image to extract features, the Pooling layer downsamples the image to reduce computation, and the fully connected layer makes the final prediction. The network learns the optimal filters through backpropagation and gradient descent
 
 
   ## Neural Networks
