@@ -19,7 +19,7 @@ There are four types of RNNs based on the number of inputs and outputs in the ne
 3. Many to one : categorize many words (sentences) as positive or negative ; i.e sentiment analysis
 4. Many to many : Translate one language into another
 
-[Read more] https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/
+[Read more](https://www.geeksforgeeks.org/introduction-to-recurrent-neural-network/)
 
 
 
