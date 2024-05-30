@@ -1,11 +1,16 @@
 # Convolution Neural Networks (CNN)
-Convolutional Neural Network (CNN) is the extended version of artificial neural networks (ANN) which is predominantly used to extract the feature from the grid-like matrix dataset. For example visual datasets like images or videos where data patterns play an extensive role.
-# Problem
+Recurrent Neural Network(RNN) is a type of Neural Network where the output from the previous step is fed as input to the current step.
+*  In traditional neural networks, all the inputs and outputs are independent of each other.
+*  Still, in cases when it is required to predict the next word of a sentence, the previous words are required and hence there is a need to remember the previous words.
+*  The main and most important feature of RNN is its Hidden state, which remembers some information about a sequence.
+# RNNs vs Traditional ANNs
+* **Artificial neural networks** that do not have looping nodes are called feed forward neural networks. Because all information is only passed forward, this kind of neural network is also referred to as a multi-layer neural network.Information moves from the input layer to the output layer – if any hidden layers are present – unidirectionally in a feedforward neural network.
+* The fundamental processing unit in a **Recurrent Neural Network (RNN)** is a Recurrent Unit, which is not explicitly called a “Recurrent Neuron.” This unit has the unique ability to maintain a hidden state, allowing the network to capture sequential dependencies by remembering previous inputs while processing. Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) versions improve the RNN’s ability to handle long-term dependencies.
 **Classify an image as cat or dog using CNN**
 ## CNN architecture
 Convolutional Neural Network consists of multiple layers like the input layer, Convolutional layer, Pooling layer, and fully connected layers.
 
-<img alt="max" height="273" src="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png" srcset="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png 723w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-100.png 100w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-200.png 200w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-300.png 300w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-660.png 660w" width="723">
+<img alt="max" height="273" src=["https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png" srcset="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png 723w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-100.png 100w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-200.png 200w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-300.png 300w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-660.png 660w" width="723"](https://media.geeksforgeeks.org/wp-content/uploads/20231204125839/What-is-Recurrent-Neural-Network-660.webp)>
 
 The Convolutional layer applies filters to the input image to extract features, the Pooling layer downsamples the image to reduce computation, and the fully connected layer makes the final prediction. The network learns the optimal filters through backpropagation and gradient descent
 
