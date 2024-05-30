@@ -22,6 +22,5 @@ The Convolutional layer applies filters to the input image to extract features, 
 
   [Read more](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
 
-  <img alt="max" height="273" src="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png" srcset="https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max.png 723w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-100.png 100w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-200.png 200w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-300.png 300w,https://media.geeksforgeeks.org/wp-content/uploads/20231218174301/max-660.png 660w" width="723">
   
 
